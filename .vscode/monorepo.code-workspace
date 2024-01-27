@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "[monorepo-name]",
+      "path": "../"
+    }
+  ],
+  // Here we can define settings for the [monorepo-name] workspace
+  "settings": {
+    "git.ignoreSubmodules": true
+  }
+}
