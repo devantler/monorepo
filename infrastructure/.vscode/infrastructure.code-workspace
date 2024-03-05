@@ -1,16 +1,12 @@
 {
   "folders": [
     {
-      "name": "Monorepo",
+      "name": "Infrastructure",
       "path": "../"
     },
     {
-      "name": "Infrastructure",
-      "path": "../infrastructure/"
-    },
-    {
       "name": "Homelab",
-      "path": "../infrastructure/homelab/"
+      "path": "../homelab/"
     }
   ],
   "settings": {
