@@ -6,3 +6,7 @@
 	path = infrastructure/oci-artifacts
 	url = https://github.com/devantler/oci-artifacts
 	branch = main
+[submodule "code/ksail"]
+	path = code/ksail
+	url = git@github.com:devantler/ksail.git
+	branch = main

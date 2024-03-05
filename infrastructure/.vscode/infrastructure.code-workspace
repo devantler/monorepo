@@ -1,15 +1,15 @@
 {
   "folders": [
     {
-      "name": "Infrastructure",
+      "name": "🚀 Infrastructure",
       "path": "../"
     },
     {
-      "name": "Homelab",
+      "name": "🏠 Homelab",
       "path": "../homelab/"
     },
     {
-      "name": "OCI Artifacts",
+      "name": "📦 OCI Artifacts",
       "path": "../oci-artifacts/"
     }
   ],

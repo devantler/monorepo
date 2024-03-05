@@ -1,19 +1,27 @@
 {
   "folders": [
     {
-      "name": "Monorepo",
+      "name": "🌳 Monorepo",
       "path": "../"
     },
     {
-      "name": "Infrastructure",
+      "name": "🧑🏻‍💻 Code",
+      "path": "../code/"
+    },
+    {
+      "name": "🧑🏻‍💻🛥️🐳 KSail",
+      "path": "../code/ksail/"
+    },
+    {
+      "name": "🚀 Infrastructure",
       "path": "../infrastructure/"
     },
     {
-      "name": "Homelab",
+      "name": "🚀🏠 Homelab",
       "path": "../infrastructure/homelab/"
     },
     {
-      "name": "OCI Artifacts",
+      "name": "🚀📦 OCI Artifacts",
       "path": "../infrastructure/oci-artifacts/"
     }
   ],

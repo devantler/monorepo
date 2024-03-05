@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "🛥️🐳 KSail",
+      "path": "../ksail/"
+    }
+  ],
+  "settings": {
+    "git.ignoreSubmodules": true
+  }
+}
