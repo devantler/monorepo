@@ -7,6 +7,10 @@
     {
       "name": "Homelab",
       "path": "../homelab/"
+    },
+    {
+      "name": "OCI Artifacts",
+      "path": "../oci-artifacts/"
     }
   ],
   "settings": {

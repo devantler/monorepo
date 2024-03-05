@@ -2,3 +2,7 @@
 	path = infrastructure/homelab
 	url = git@github.com:devantler/homelab.git
 	branch = main
+[submodule "infrastructure/oci-artifacts"]
+	path = infrastructure/oci-artifacts
+	url = https://github.com/devantler/oci-artifacts
+	branch = main
