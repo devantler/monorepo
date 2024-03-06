@@ -10,3 +10,7 @@
 	path = code/ksail
 	url = git@github.com:devantler/ksail.git
 	branch = main
+[submodule "code/dotnet-commons"]
+	path = code/dotnet-commons
+	url = git@github.com:devantler/dotnet-commons.git
+	branch = main

@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "🧑🏻‍💻📦 .NET Commons",
+      "path": "../code/dotnet-commons/"
+    },
+    {
       "name": "🛥️🐳 KSail",
       "path": "../ksail/"
     }

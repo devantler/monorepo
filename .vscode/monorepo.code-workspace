@@ -13,6 +13,10 @@
       "path": "../code/ksail/"
     },
     {
+      "name": "🧑🏻‍💻📦 .NET Commons",
+      "path": "../code/dotnet-commons/"
+    },
+    {
       "name": "🚀 Infrastructure",
       "path": "../infrastructure/"
     },
